@@ -102,3 +102,4 @@
 //	printf("他们的和为：%d\n", add(a,b));
 //	return 0;
 //}
+//rename study2025_12_1.c to study_2025_12_1.c
